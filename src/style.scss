@@ -1,0 +1,24 @@
+$form-width : 50%;
+$form-margin : auto;
+$form-margin-top : 20px;
+$form-background-color : lightgray;
+$form-border : none;
+$input-outline : none;
+
+.child_2 
+{
+    width: $form-width;
+    margin: $form-margin;
+    margin-top: $form-margin-top;
+    background-color: $form-background-color;
+}
+
+.border
+{
+    border-style: $form-border;
+}
+
+input
+{
+    outline: $input-outline;
+}

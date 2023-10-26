@@ -1,0 +1,19 @@
+-> What is Sass?
+
+    Sass is a preprocessor of CSS.
+    Sass extention is .scss
+    Sass are load a dynamic content or provides a dynamic css.
+    React JS provides a dynamic css via .scss
+    Sass is an module in REact JS.
+
+-> How to install Sass?
+
+    command:
+        npm i sass
+            OR
+        npm install sass --save
+
+NOTE:
+
+    Any module are installed in node_modules.
+    its package registered in package.json
