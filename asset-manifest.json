@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/26oct_Mieral_formsassapp.github.io/static/css/main.0eed6caa.css",
+    "main.js": "/26oct_Mieral_formsassapp.github.io/static/js/main.5876aa92.js",
+    "static/media/Registration.png": "/26oct_Mieral_formsassapp.github.io/static/media/Registration.90144994590ae6b7e333.png",
+    "index.html": "/26oct_Mieral_formsassapp.github.io/index.html",
+    "main.0eed6caa.css.map": "/26oct_Mieral_formsassapp.github.io/static/css/main.0eed6caa.css.map",
+    "main.5876aa92.js.map": "/26oct_Mieral_formsassapp.github.io/static/js/main.5876aa92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eed6caa.css",
+    "static/js/main.5876aa92.js"
+  ]
+}
